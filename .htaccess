@@ -1,0 +1,2 @@
+AddType application/x-httpd-cgi ?0.py
+AddHandler cgi-script ?0.py
